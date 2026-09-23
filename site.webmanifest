@@ -1,0 +1,13 @@
+{
+  "name": "Nutricionista Silvana Sousa",
+  "short_name": "Silvana Sousa",
+  "description": "Nutrição clínica em Mauá-SP e online.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f6f2",
+  "theme_color": "#bdbe7a",
+  "icons": [
+    { "src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
